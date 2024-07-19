@@ -1,0 +1,13 @@
+name = "Discerning Furnace"
+filename = "discerning-furnace-1.0.15+MC1.19-1.20.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/G3Nz6HN4/versions/xEFLXNFg/discerning-furnace-1.0.15%2BMC1.19-1.20.6.jar"
+hash-format = "sha1"
+hash = "6813f016fcab93e3e4c64fcd8a47f2053b9bb338"
+
+[update]
+[update.modrinth]
+mod-id = "G3Nz6HN4"
+version = "xEFLXNFg"

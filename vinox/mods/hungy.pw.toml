@@ -1,0 +1,13 @@
+name = "Hungy"
+filename = "hungy-1.0.1+1.20.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/751Hz7TW/versions/GhAR43iu/hungy-1.0.1%2B1.20.jar"
+hash-format = "sha1"
+hash = "f1708324586aab2b80b164e1bf50219bc488ab98"
+
+[update]
+[update.modrinth]
+mod-id = "751Hz7TW"
+version = "GhAR43iu"
