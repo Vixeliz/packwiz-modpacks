@@ -1,0 +1,13 @@
+name = "Base"
+author = "vixeliz"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "3af06c34aee57d6ba41ee21b56f713833cb5da030d577953699ba9cbca6d022b"
+
+[versions]
+fabric = "0.16.0"
+minecraft = "1.21"

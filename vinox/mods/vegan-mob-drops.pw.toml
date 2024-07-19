@@ -1,0 +1,13 @@
+name = "Vegan Mob Drops"
+filename = "vegan-mob-drops-4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZrQkwH6G/versions/jfhNfSaM/vegan-mob-drops-4.jar"
+hash-format = "sha1"
+hash = "bb381349f69ff2f37558392d2947f88a178a3fdf"
+
+[update]
+[update.modrinth]
+mod-id = "ZrQkwH6G"
+version = "jfhNfSaM"
