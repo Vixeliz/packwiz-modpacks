@@ -1,12 +1,12 @@
 name = "J"
 author = "vixeliz"
-version = "1.0.0"
+version = "1.0.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "a57f316456568447e29df68a2a9b316eb8553474b513c9046fdd89d4a4758987"
+hash = "79e65364bfb8c8826e28c53e9a652ac34da4c0b86a8165cf5a1b1c8833d24390"
 
 [versions]
 fabric = "0.16.0"

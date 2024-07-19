@@ -1,13 +1,13 @@
 name = "Shuffle"
-filename = "shuffle-quilt-9.0.0+1.20.1.jar"
+filename = "shuffle-fabric-9.0.0+1.20.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/WUvGZLgB/versions/cKtAGZGJ/shuffle-quilt-9.0.0%2B1.20.1.jar"
+url = "https://cdn.modrinth.com/data/WUvGZLgB/versions/sPce9t3y/shuffle-fabric-9.0.0%2B1.20.1.jar"
 hash-format = "sha1"
-hash = "80c2e5a24b43a469ae636d92bf13d7252700ea98"
+hash = "4f4532dbd41e4ce83ce5e2dc31c38cd91776ae59"
 
 [update]
 [update.modrinth]
 mod-id = "WUvGZLgB"
-version = "cKtAGZGJ"
+version = "sPce9t3y"
