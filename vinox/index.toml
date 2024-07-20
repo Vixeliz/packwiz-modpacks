@@ -261,6 +261,11 @@ hash = "dda8e3884776546230530725d76d00189b1067ef3ce4ff66158d72822aa9dd1f"
 metafile = true
 
 [[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "5afe4e900b83aa83109d0c845df28e9695d8e3639518b0f08169a547f0e3682b"
+metafile = true
+
+[[files]]
 file = "mods/calcmod.pw.toml"
 hash = "635275e7ff042568ac2279602371e0da61eae9b07d7486b5b357f5f43d83caa9"
 metafile = true
@@ -303,6 +308,11 @@ metafile = true
 [[files]]
 file = "mods/cicada.pw.toml"
 hash = "9429467855b96d1437d6335f45282625c4af182ec760a876f97270d0f2397f5a"
+metafile = true
+
+[[files]]
+file = "mods/clean-f3.pw.toml"
+hash = "c9cb283ccc5e15516ac220630b3562552ba358b9422a7679b077a7142f16784d"
 metafile = true
 
 [[files]]
@@ -656,11 +666,6 @@ hash = "5d4381413d502b8bd3e41908df40b0da103b01c3b9e9e557c7549aeca0b1c260"
 metafile = true
 
 [[files]]
-file = "mods/hidden-recipe-book.pw.toml"
-hash = "1b062ad524baaa05815e1a71a4d0cb9b6afa34d3fd1e61637f29073076933d91"
-metafile = true
-
-[[files]]
 file = "mods/hungy.pw.toml"
 hash = "a10eb516ec5c9a91e91f54d0e52b36833e164e8776c8f5a861da3af74e9f57e0"
 metafile = true
@@ -668,6 +673,11 @@ metafile = true
 [[files]]
 file = "mods/iceberg.pw.toml"
 hash = "b60c351dc27fdfefbbce5c51e964e02aac963ae203f8ec3f203d841af449d3a3"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "1aadf91846b80dcbedfae8433ff58b5614b3470062887fe9b3d1e22d05ed0e86"
 metafile = true
 
 [[files]]
@@ -821,6 +831,16 @@ hash = "1acd996072e196d8bf814766bcbd074c726d8ed95d0be773ce2ce04ca2d60e95"
 metafile = true
 
 [[files]]
+file = "mods/memoryleakfix.pw.toml"
+hash = "3c0945a312aca06a2185b00cb03ae482949b008d72614497148aa2df301af019"
+metafile = true
+
+[[files]]
+file = "mods/midnightlib.pw.toml"
+hash = "bc79745faf3cfec5d60e239817905c2bebfb692f8ae3ff3671fc8afd4800227e"
+metafile = true
+
+[[files]]
 file = "mods/mixintrace.pw.toml"
 hash = "0a8e6a58962ba40f696a44cb2d02355490bc831b49509f8083e3e7bc89b40052"
 metafile = true
@@ -878,6 +898,11 @@ metafile = true
 [[files]]
 file = "mods/naturalist.pw.toml"
 hash = "6cef110f567b6957a35aa4224c70e7e4ad22dd25f852b2a39d2457fdb804edff"
+metafile = true
+
+[[files]]
+file = "mods/nerb.pw.toml"
+hash = "91b6ddaebfb96b92e89d69123606266fd1109190131061d9a8f58e9f9f7a91ff"
 metafile = true
 
 [[files]]
@@ -1033,6 +1058,11 @@ metafile = true
 [[files]]
 file = "mods/searchables.pw.toml"
 hash = "5d694c42e5e6759807f1f5756de3dd24f098517143b8d8aac5721b7d5cf502b1"
+metafile = true
+
+[[files]]
+file = "mods/servercore.pw.toml"
+hash = "182161aa8e4b730555dd9984efb7be8cfd3debbaf1d4cc60e0b3241402e6f2bc"
 metafile = true
 
 [[files]]
