@@ -931,6 +931,11 @@ hash = "672ed4c751ebc1dfd02ab07da49457b346e90df38fa73fcba9ac6dff41c96114"
 metafile = true
 
 [[files]]
+file = "mods/more-mob-variants.pw.toml"
+hash = "434aa72d89030fbe6bb07e7b4518cea1863bad462ea7beae16594adc1a48e1ad"
+metafile = true
+
+[[files]]
 file = "mods/morechathistory.pw.toml"
 hash = "b2dcec48393d038cab99a528aa76f3d50255e6ac9e1e0a7fa6062ecc44d780a2"
 metafile = true
