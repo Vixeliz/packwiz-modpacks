@@ -1141,11 +1141,6 @@ hash = "13c3cb285357a1f3814727dc500b1a5849b496c5be4bd34205cb597e3f84eda1"
 metafile = true
 
 [[files]]
-file = "mods/sound-physics-remastered.pw.toml"
-hash = "62fa9a283dd936e8c6863cfb5df10a9571746ddd605854d8c9ed05bca055c3c1"
-metafile = true
-
-[[files]]
 file = "mods/sparsestructures.pw.toml"
 hash = "b6fae935d6d993df29db5687bf2a0d6c65838ad9771e0496792c4f4631feee22"
 metafile = true
