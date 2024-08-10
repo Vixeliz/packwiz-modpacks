@@ -266,6 +266,11 @@ hash = "89d7f1597acb08c364ac7d36a528cd7317f98e2bad5ccedfa54192a57246b8bb"
 metafile = true
 
 [[files]]
+file = "mods/brazier.pw.toml"
+hash = "61cd9aad64f42508c0cf4d13f9b8654d201936fee73b593ea2a36f04d03895f0"
+metafile = true
+
+[[files]]
 file = "mods/brewin-and-chewin-fabric.pw.toml"
 hash = "dda8e3884776546230530725d76d00189b1067ef3ce4ff66158d72822aa9dd1f"
 metafile = true
