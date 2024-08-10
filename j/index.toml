@@ -381,6 +381,11 @@ hash = "d3e3831377b8282db35ffe8446d535f30e011367b3187b2c96b5f179a1a77c59"
 metafile = true
 
 [[files]]
+file = "mods/create-copper-zinc.pw.toml"
+hash = "10028f4a401d2ccab706410296fc0692e5bb6324450fba2863b21d6ae7b05b0f"
+metafile = true
+
+[[files]]
 file = "mods/create-deco-additions.pw.toml"
 hash = "921ba7285e115d4ddb84cfdcd15bb20c51dea1da850e8b1fd11856faf264b952"
 metafile = true
@@ -401,8 +406,23 @@ hash = "26394151533372bce2229f31c8df7f65e2deb751cc823f317cd30682381acc8f"
 metafile = true
 
 [[files]]
+file = "mods/create-metalwork.pw.toml"
+hash = "590818ff4010f70b44a9a742e1b52eb8daf2e84a04b8e8f918b1a23319144b34"
+metafile = true
+
+[[files]]
+file = "mods/create-pattern-schematics.pw.toml"
+hash = "09a042b46676bf6f8ae7bad96e418f4f4e24d4bab8189f72ab616ff6c742aaac"
+metafile = true
+
+[[files]]
 file = "mods/create-peaceful-compat.pw.toml"
 hash = "b45092168c9c19ca1eb898a62469e707e854b90f1277e0a293bf7164fe626fc9"
+metafile = true
+
+[[files]]
+file = "mods/create-power-loader-fabric.pw.toml"
+hash = "819147b9b5a29485a20add7bb2453d3d0100dfa2df7466d9474b92c8122120b9"
 metafile = true
 
 [[files]]
@@ -983,6 +1003,11 @@ metafile = true
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "dfcf0446ce11ef9691761c4a696b7ca8763854d977c5074a56fa266d92aebd86"
+metafile = true
+
+[[files]]
+file = "mods/notes.pw.toml"
+hash = "dfdd6d6e1ddca69c3815fd86c821bef75c195cb7465074a47967b90770ad05ad"
 metafile = true
 
 [[files]]
